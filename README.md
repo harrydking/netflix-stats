@@ -1,2 +1,2 @@
 # netflix-stats
-A quick analysis of my Netflix watch history
+A quick EDA of my Netflix watch history
